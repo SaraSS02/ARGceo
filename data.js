@@ -1,161 +1,10 @@
 klynt.data = {
     "sequences": {
-        "33A0C862-2207-9924-1FC6-B949EA0DA513": {
-            "id": "33A0C862-2207-9924-1FC6-B949EA0DA513",
-            "title": "Corretta",
-            "backgroundColor": "rgba(0,0,0,1)",
-            "images": [
-                {
-                    "id": "6953446F-890A-731C-8C2E-E918CE578BD3",
-                    "src": "Medias/Photos/WhatsApp_Image_2024-05-28_at_12.31.20.jpeg",
-                    "scales": true,
-                    "horizontalAlign": "center",
-                    "centerY": "5.12",
-                    "width": "1741.62",
-                    "name": "WhatsApp_Image_2024-05-28_at_12.31.20.jpeg",
-                    "databegin": "00:00.00",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "centerX": "31.04",
-                    "dataend": "02:00.91",
-                    "verticalAlign": "middle",
-                    "mediaWidth": 970,
-                    "height": "978.56",
-                    "duration": "02:00.91",
-                    "zIndex": 0,
-                    "mediaHeight": 545,
-                    "scaleMode": "zoom",
-                    "style": {
-                        "opacity": 0.7
-                    }
-                },
-                {
-                    "id": "3FE4D16F-662E-4B7B-FA4F-E918B2A3D68D",
-                    "src": "Medias/Photos/successo.png",
-                    "scales": true,
-                    "horizontalAlign": "center",
-                    "centerY": "5.81",
-                    "width": "612.55",
-                    "name": "successo.png",
-                    "databegin": "00:00.00",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "centerX": "2.85",
-                    "dataend": "02:00.91",
-                    "verticalAlign": "middle",
-                    "mediaWidth": 970,
-                    "height": "964.78",
-                    "duration": "02:00.91",
-                    "zIndex": 1,
-                    "mediaHeight": 545,
-                    "scaleMode": "zoom"
-                }
-            ],
-            "y": 192,
-            "x": 393,
-            "hideTitleInMindmap": false,
-            "shapes": [
-                {
-                    "id": "BE9FD5F9-AB81-4E55-8F14-E91A045F54BA",
-                    "centerY": "244.08",
-                    "scales": true,
-                    "width": "309.31",
-                    "label": "Hotspot 1",
-                    "databegin": "00:00.00",
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "centerX": "-3.17",
-                    "dataend": "02:00.91",
-                    "height": "65.23",
-                    "duration": "02:00.91",
-                    "zIndex": 3,
-                    "link": {
-                        "id": "FF5908E7-2F5E-48D7-4DFC-E91AB112EEE3",
-                        "controlDY": 0,
-                        "targetSequence": "6D702118-BFBB-E500-99AE-E91A4425442A",
-                        "controlDX": 0,
-                        "automaticTransition": false,
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "transition": "fade",
-                        "color": "rgba(0,0,0,1)",
-                        "hideArrowInMindmap": false
-                    },
-                    "type": "default",
-                    "style": {
-                        "backgroundColor": "rgba(233,66,77,1)",
-                        "opacity": 0
-                    }
-                }
-            ],
-            "thumbnail": "Medias/Thumbnails/PHOTO-2024-05-21-13-17-32.jpg.jpg",
-            "size": "medium",
-            "hideInMindmap": false,
-            "duration": 119.90910338114604,
-            "hideThumbnailInMindmap": false,
-            "color": "rgba(0,0,0,1)"
-        },
-        "6D702118-BFBB-E500-99AE-E91A4425442A": {
-            "id": "6D702118-BFBB-E500-99AE-E91A4425442A",
-            "title": "ricompensa",
-            "backgroundColor": "rgba(0,0,0,1)",
-            "y": 95,
-            "x": 201,
-            "hideTitleInMindmap": false,
-            "thumbnail": "Medias/Thumbnails/IMG_1795.mp4.jpg",
-            "size": "medium",
-            "hideInMindmap": false,
-            "duration": 117.422,
-            "videos": [
-                {
-                    "height": "1006.02",
-                    "src": [
-                        {
-                            "type": "video/mp4",
-                            "src": "Medias/Videos/ricompensa_sys4Fy20.mp4"
-                        }
-                    ],
-                    "autoplay": true,
-                    "scales": true,
-                    "zIndex": 1,
-                    "transitionIn": {
-                        "type": "fade",
-                        "duration": "1"
-                    },
-                    "centerX": "1.31",
-                    "poster": "Medias/Posters/ricompensa_sys4Fy20.mp4.jpg",
-                    "syncMaster": true,
-                    "id": "FFA29D33-3E32-C7D4-D6B5-F90A46B65B6A",
-                    "centerY": "12.01",
-                    "frameRate": 0,
-                    "loop": false,
-                    "horizontalAlign": "center",
-                    "name": "ricompensa_sys4Fy20.mp4",
-                    "verticalAlign": "middle",
-                    "width": "550.99",
-                    "dataend": "01:57.42",
-                    "mediaWidth": 1080,
-                    "databegin": "00:00.00",
-                    "duration": "01:57.42",
-                    "player": false,
-                    "volume": 1,
-                    "mediaHeight": 1972,
-                    "scaleMode": "zoom"
-                }
-            ],
-            "hideThumbnailInMindmap": false,
-            "color": "rgba(0,0,0,1)"
-        },
         "3D1169A1-C78C-7E9A-2A11-B94A19005A49": {
             "id": "3D1169A1-C78C-7E9A-2A11-B94A19005A49",
             "title": "Sbagliata",
             "backgroundColor": "rgba(0,0,0,1)",
+            "y": 173,
             "images": [
                 {
                     "id": "87FE28D5-EA1C-B7B5-2FDB-DD5B7FB5C7AF",
@@ -231,7 +80,6 @@ klynt.data = {
                     "scaleMode": "zoom"
                 }
             ],
-            "y": 173,
             "x": 805,
             "hideTitleInMindmap": false,
             "shapes": [
@@ -305,10 +153,62 @@ klynt.data = {
             "hideThumbnailInMindmap": false,
             "color": "rgba(0,0,0,1)"
         },
+        "6D702118-BFBB-E500-99AE-E91A4425442A": {
+            "id": "6D702118-BFBB-E500-99AE-E91A4425442A",
+            "title": "ricompensa",
+            "backgroundColor": "rgba(0,0,0,1)",
+            "y": 95,
+            "x": 201,
+            "hideTitleInMindmap": false,
+            "thumbnail": "Medias/Thumbnails/IMG_1795.mp4.jpg",
+            "size": "medium",
+            "hideInMindmap": false,
+            "duration": 117.422,
+            "videos": [
+                {
+                    "height": "1006.02",
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/ricompensa_sys4Fy20.mp4"
+                        }
+                    ],
+                    "autoplay": true,
+                    "scales": true,
+                    "zIndex": 1,
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "centerX": "1.31",
+                    "syncMaster": true,
+                    "id": "FFA29D33-3E32-C7D4-D6B5-F90A46B65B6A",
+                    "centerY": "12.01",
+                    "frameRate": 0,
+                    "loop": false,
+                    "horizontalAlign": "center",
+                    "name": "ricompensa_sys4Fy20.mp4",
+                    "poster": "Medias/Posters/ricompensa_sys4Fy20.mp4.jpg",
+                    "databegin": "00:00.00",
+                    "width": "550.99",
+                    "dataend": "01:57.42",
+                    "mediaWidth": 1080,
+                    "verticalAlign": "middle",
+                    "duration": "01:57.42",
+                    "player": false,
+                    "volume": 1,
+                    "mediaHeight": 1972,
+                    "scaleMode": "zoom"
+                }
+            ],
+            "hideThumbnailInMindmap": false,
+            "color": "rgba(0,0,0,1)"
+        },
         "9A880478-7351-00E4-F9D6-B9425AA2EEAE": {
             "id": "9A880478-7351-00E4-F9D6-B9425AA2EEAE",
             "title": "Home",
             "backgroundColor": "rgba(0,0,0,1)",
+            "y": 400,
             "images": [
                 {
                     "id": "362DD84B-A0C2-1129-712D-E8F566281E68",
@@ -334,13 +234,10 @@ klynt.data = {
                     "scaleMode": "zoom"
                 }
             ],
-            "y": 400,
             "x": 639.9833333333333,
             "hideTitleInMindmap": false,
             "thumbnail": "Medias/Thumbnails/PHOTO-2024-05-21-13-17-32.jpg.jpg",
             "size": "large",
-            "hideInMindmap": false,
-            "duration": 119.90910338114604,
             "iframes": [
                 {
                     "id": "65094096-E827-4B4F-2D0E-B967AF271473",
@@ -360,6 +257,109 @@ klynt.data = {
                     "code": "<!DOCTYPE html>\r<html>\r<head>\r\t<script src=\"https://cdn.jsdelivr.net/gh/Klynt/Klynt-Player/Player/js/api/KlyntAPI.js\" type=\"text/javascript\"></script>\r\r\t<style>\r\tbody {\r\t\theight: 100px;\r\t}\r\tinput {\r\t\twidth: 100%;\r\t\tborder-top-color: transparent;\r\t\tborder-left-color: transparent;\r\t\tborder-right-color: transparent;\r\t\tfont-size: 24px;\r\t}\r\tinput:focus{\r\t\toutline: none;\r\t}\r\r\tbutton {\r\t\tpadding: 8px;\r\t\tmargin-top: 16px;\r\t\tborder: none;\r\t\tbackground: #08457e;\r\t\tcolor: white;\r\t\twidth: 100%\r\t}\r\t</style>\r\r</head>\r\r<body>\r\r\t<form name=\"myForm\" action=\"javascript:void(0);\" onsubmit=\"validateForm()\">\r\t\t<input type=\"text\" name=\"keypass\" autocomplete=\"off\">\r </form>\r\t<button onclick=\"validateForm()\">conferma</button>\r\r\t<script>\r\tfunction validateForm() {\r\t\tvar x = document.forms[\"myForm\"][\"keypass\"].value.toLowerCase().trim().replace(/\\s+/g, \"\");\r\t\tif (x == \"animadelsuono\") {\rKlyntAPI.commands.openSequence(\"33A0C862-2207-9924-1FC6-B949EA0DA513\");\r\t\t} else if (x==\"\") {\r\t\t\talert(\"inserire una password\");\r\t\t} else {\rKlyntAPI.commands.openSequence(\"3D1169A1-C78C-7E9A-2A11-B94A19005A49\");\r\t\t}\r\t}\r\t</script>\r</body>\r</html>"
                 }
             ],
+            "hideInMindmap": false,
+            "duration": 119.90910338114604,
+            "hideThumbnailInMindmap": false,
+            "color": "rgba(0,0,0,1)"
+        },
+        "33A0C862-2207-9924-1FC6-B949EA0DA513": {
+            "id": "33A0C862-2207-9924-1FC6-B949EA0DA513",
+            "title": "Corretta",
+            "backgroundColor": "rgba(0,0,0,1)",
+            "y": 192,
+            "images": [
+                {
+                    "id": "6953446F-890A-731C-8C2E-E918CE578BD3",
+                    "src": "Medias/Photos/WhatsApp_Image_2024-05-28_at_12.31.20.jpeg",
+                    "scales": true,
+                    "horizontalAlign": "center",
+                    "centerY": "5.12",
+                    "width": "1741.62",
+                    "name": "WhatsApp_Image_2024-05-28_at_12.31.20.jpeg",
+                    "databegin": "00:00.00",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "centerX": "31.04",
+                    "dataend": "02:00.91",
+                    "verticalAlign": "middle",
+                    "mediaWidth": 970,
+                    "height": "978.56",
+                    "duration": "02:00.91",
+                    "zIndex": 0,
+                    "mediaHeight": 545,
+                    "scaleMode": "zoom",
+                    "style": {
+                        "opacity": 0.7
+                    }
+                },
+                {
+                    "id": "3FE4D16F-662E-4B7B-FA4F-E918B2A3D68D",
+                    "src": "Medias/Photos/successo.png",
+                    "scales": true,
+                    "horizontalAlign": "center",
+                    "centerY": "5.81",
+                    "width": "612.55",
+                    "name": "successo.png",
+                    "databegin": "00:00.00",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "centerX": "2.85",
+                    "dataend": "02:00.91",
+                    "verticalAlign": "middle",
+                    "mediaWidth": 970,
+                    "height": "964.78",
+                    "duration": "02:00.91",
+                    "zIndex": 1,
+                    "mediaHeight": 545,
+                    "scaleMode": "zoom"
+                }
+            ],
+            "x": 393,
+            "hideTitleInMindmap": false,
+            "shapes": [
+                {
+                    "id": "BE9FD5F9-AB81-4E55-8F14-E91A045F54BA",
+                    "centerY": "244.08",
+                    "scales": true,
+                    "width": "309.31",
+                    "label": "Hotspot 1",
+                    "databegin": "00:00.00",
+                    "transitionIn": {
+                        "type": "fade",
+                        "duration": "1"
+                    },
+                    "centerX": "-3.17",
+                    "dataend": "02:00.91",
+                    "height": "65.23",
+                    "duration": "02:00.91",
+                    "zIndex": 3,
+                    "link": {
+                        "id": "FF5908E7-2F5E-48D7-4DFC-E91AB112EEE3",
+                        "controlDY": 0,
+                        "targetSequence": "6D702118-BFBB-E500-99AE-E91A4425442A",
+                        "controlDX": 0,
+                        "automaticTransition": false,
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "transition": "fade",
+                        "color": "rgba(0,0,0,1)",
+                        "hideArrowInMindmap": false
+                    },
+                    "type": "default",
+                    "style": {
+                        "backgroundColor": "rgba(233,66,77,1)",
+                        "opacity": 0
+                    }
+                }
+            ],
+            "thumbnail": "Medias/Thumbnails/PHOTO-2024-05-21-13-17-32.jpg.jpg",
+            "size": "medium",
+            "hideInMindmap": false,
+            "duration": 119.90910338114604,
             "hideThumbnailInMindmap": false,
             "color": "rgba(0,0,0,1)"
         }
@@ -367,57 +367,63 @@ klynt.data = {
     "share": {
         "enableLinkedIn": true,
         "link": null,
-        "embedWording": "Embed",
+        "displayMiniPlayerWording": true,
         "enableTumblr": true,
         "verticalWording": "Vertical",
         "playerWording": "Player",
         "title": "",
-        "horizontalWording": "Horizontal",
+        "embedWording": "Embed",
         "customSizeWording": "Custom",
         "miniPlayerWording": "Mini player",
         "shareSequenceWording": "Share sequence",
         "linkWording": "Link",
         "removeViaKlynt": true,
-        "displayMiniPlayerWording": true,
+        "horizontalWording": "Horizontal",
         "originalSizeWording": "Original",
-        "socialNetworksWording": "Social Networks",
         "message": "",
         "thumbnail": null,
         "enableGooglePlus": true,
-        "shortMessage": ""
-    },
-    "watermark": {
-        "action": {
-            "type": "openSequence",
-            "target": "null"
-        },
-        "image": "Player/css/editor/img/watermark.png",
-        "displayOnStartSequence": true,
-        "enabled": false,
-        "position": "top-left"
+        "shortMessage": "",
+        "socialNetworksWording": "Social Networks"
     },
     "miniPlayer": {
         "fullscreenInfoWording": "This program will launch in fullscreen",
-        "thumbnail": "Medias/Thumbnails/PHOTO-2024-05-21-13-17-32.jpg.jpg",
         "title": "ARG_CEO",
         "thanksForWatchingWording": "Thanks for watching!",
         "description": "",
         "resumePlaybackWording": "Resume playback?",
-        "redirectToMobileApp": "always",
+        "downloadAppWording": "Download App",
         "yesWording": "Yes",
         "launchAppWording": "Then Launch Project",
+        "redirectToMobileApp": "always",
         "noWording": "No",
-        "downloadAppWording": "Download App",
+        "thumbnail": "Medias/Thumbnails/PHOTO-2024-05-21-13-17-32.jpg.jpg",
         "analyticsKey": "",
         "url": ""
     },
+    "aliases": {
+        "idToAlias": {
+            "3D1169A1-C78C-7E9A-2A11-B94A19005A49": "Sbagliata",
+            "6D702118-BFBB-E500-99AE-E91A4425442A": "ricompensa",
+            "9A880478-7351-00E4-F9D6-B9425AA2EEAE": "Home",
+            "33A0C862-2207-9924-1FC6-B949EA0DA513": "Corretta"
+        },
+        "aliasToId": {
+            "Home": "9A880478-7351-00E4-F9D6-B9425AA2EEAE",
+            "ricompensa": "6D702118-BFBB-E500-99AE-E91A4425442A",
+            "Sbagliata": "3D1169A1-C78C-7E9A-2A11-B94A19005A49",
+            "Corretta": "33A0C862-2207-9924-1FC6-B949EA0DA513"
+        }
+    },
     "mainSequence": "9A880478-7351-00E4-F9D6-B9425AA2EEAE",
-    "wording": {
-        "your_are_here": "Vous êtes ici",
-        "total_duration": "(durée totale : {0})",
-        "total_sequences": "séquences au total",
-        "program_percentage_viewed": "du programme vu",
-        "keywords": "mots-clés"
+    "advanced": {
+        "enableFullWindowMode": true,
+        "enableKeyboardNavigation": true,
+        "enableScrollNavigation": true,
+        "hasRemoteVideos": false,
+        "remoteVideosAPILocalBitrate": "best",
+        "enableSwipeNavigation": true,
+        "remoteVideosAPIURL": "http://api.klynt.net/video/klynt-video-api.php"
     },
     "general": {
         "ratio": "custom",
@@ -425,7 +431,6 @@ klynt.data = {
         "title": "ARG_CEO",
         "level": 5,
         "primaryColor": 3355443,
-        "projectId": "435AE820-A379-2697-7995-B9425A3F6B16",
         "description": "",
         "author": "polito",
         "projectHost": "",
@@ -439,9 +444,10 @@ klynt.data = {
         "mapsKey": "",
         "mainFontName": "Open Sans",
         "height": 970,
-        "modificationDate": 1717882482146,
+        "modificationDate": 1717955839203,
         "keywords": null,
         "mainFontSize": 14,
+        "projectId": "435AE820-A379-2697-7995-B9425A3F6B16",
         "overlayCloseButtonTop": 16,
         "editorVersionNumber": "3.5.007"
     },
@@ -453,8 +459,8 @@ klynt.data = {
             {
                 "params": {
                     "layout": "grid",
-                    "displayDescriptions": true,
                     "displayDuration": true,
+                    "displayDescriptions": true,
                     "sequences": []
                 },
                 "id": "DE574F1E-AB2F-3815-AD7C-B9425A94B7D9",
@@ -497,19 +503,15 @@ klynt.data = {
         ],
         "displayBackgroundImage": false
     },
-    "aliases": {
-        "idToAlias": {
-            "33A0C862-2207-9924-1FC6-B949EA0DA513": "Corretta",
-            "6D702118-BFBB-E500-99AE-E91A4425442A": "ricompensa",
-            "3D1169A1-C78C-7E9A-2A11-B94A19005A49": "Sbagliata",
-            "9A880478-7351-00E4-F9D6-B9425AA2EEAE": "Home"
+    "watermark": {
+        "action": {
+            "type": "openSequence",
+            "target": "null"
         },
-        "aliasToId": {
-            "Corretta": "33A0C862-2207-9924-1FC6-B949EA0DA513",
-            "ricompensa": "6D702118-BFBB-E500-99AE-E91A4425442A",
-            "Home": "9A880478-7351-00E4-F9D6-B9425AA2EEAE",
-            "Sbagliata": "3D1169A1-C78C-7E9A-2A11-B94A19005A49"
-        }
+        "displayOnStartSequence": true,
+        "image": "Player/css/editor/img/watermark.png",
+        "enabled": false,
+        "position": "top-left"
     },
     "footer": {
         "height": 26,
@@ -540,13 +542,11 @@ klynt.data = {
             }
         ]
     },
-    "advanced": {
-        "enableFullWindowMode": true,
-        "enableKeyboardNavigation": true,
-        "enableScrollNavigation": true,
-        "hasRemoteVideos": false,
-        "remoteVideosAPILocalBitrate": "best",
-        "enableSwipeNavigation": true,
-        "remoteVideosAPIURL": "http://api.klynt.net/video/klynt-video-api.php"
+    "wording": {
+        "program_percentage_viewed": "du programme vu",
+        "total_duration": "(durée totale : {0})",
+        "total_sequences": "séquences au total",
+        "your_are_here": "Vous êtes ici",
+        "keywords": "mots-clés"
     }
 }
