@@ -4,12 +4,12 @@ klynt.miniPlayerData = {
     "thanksForWatchingWording": "Thanks for watching!",
     "description": "",
     "resumePlaybackWording": "Resume playback?",
-    "downloadAppWording": "Download App",
-    "yesWording": "Yes",
-    "launchAppWording": "Then Launch Project",
     "redirectToMobileApp": "always",
+    "launchAppWording": "Then Launch Project",
+    "yesWording": "Yes",
+    "url": "",
     "noWording": "No",
-    "thumbnail": "Medias/Thumbnails/PHOTO-2024-05-21-13-17-32.jpg.jpg",
+    "thumbnail": "Player/css/editor/img/mini-player.jpg",
     "analyticsKey": "",
-    "url": ""
+    "downloadAppWording": "Download App"
 }
